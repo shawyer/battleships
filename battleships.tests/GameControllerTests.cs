@@ -6,7 +6,7 @@ public class GameControllerTests
 {
     private GameController gameController;
 
-    public PrimeService_IsPrimeShould()
+    public GameControllerTests()
     {
         gameController = new GameController();
     }
@@ -16,8 +16,61 @@ public class GameControllerTests
     public void isGamestartInDeploying()
     {
         gameController.StartGame();
-        var result = gameController.CurrentState
+        var result = gameController.CurrentState;
 
         Assert.AreEqual("Deploying", result, false, "Gamestate is not in deployment phase at bootup");
     }
+
+    [TestMethod]
+    [Fact]
+    public void isEndDeploymentInDiscovering()
+    {
+        gameController.EndDeployment();
+        var result = gameController.CurrentState;
+
+        Assert.AreEqual("Discovering", result, false, "Gamestate is not Discovering");
+    }
+
+    [TestMethod]
+    [Fact]
+    public void isAddNewStateAddingState()
+    {
+        gameController.AddNewState(GameState.ViewingMainMenu);
+        var result = gameController.CurrentState;
+
+        Assert.AreEqual("ViewingMainMenu", result, false, "Gamestate is not ViewingMainMenu");
+    }
+
+    [TestMethod]
+    [Fact]
+    public void isSwitchStateSwitchingState()
+    {
+        gameController.SwitchState(GameState.AlteringSettings);
+        var result = gameController.CurrentState;
+
+        Assert.AreEqual("AlteringSettings", result, false, "Gamestate is not AlteringSettings");
+    }
+
+    [TestMethod]
+    [Fact]
+    public void isEndCurrentStateEndingState()
+    {
+        gameController.AddNewState(GameState.ViewingMainMenu);
+        gameController.AddNewState(GameState.AlteringSettings);
+        gameController.EndCurrentState();
+        var result = gameController.CurrentState;
+
+        Assert.AreEqual("ViewingMainMenu", result, false, "Gamestate is not ViewingMainMenu");
+    }
+
+    [TestMethod]
+    [Fact]
+    public void canWeSetDifficulty()
+    {
+        gameController.SetDifficulty(AIOption.Hard);
+        var result = gameController._aiSetting;
+
+        Assert.AreEqual("Hard", result, false, "AIOption is not set to Hard");
+    }
+
 }
