@@ -20,6 +20,9 @@ static class DeploymentController
 	private const int SHIPS_WIDTH = 300;
 	private const int TOP_BUTTONS_TOP = 72;
 
+	private const int TOP_RETURN_TO_MENU = 230;
+	private const int RETURN_TO_MENU_WIDTH = 90;
+
 	private const int TOP_BUTTONS_HEIGHT = 46;
 	private const int PLAY_BUTTON_LEFT = 693;
 
@@ -79,6 +82,9 @@ static class DeploymentController
 				_currentDirection = Direction.LeftRight;
 			} else if (UtilityFunctions.IsMouseInRectangle(RANDOM_BUTTON_LEFT, TOP_BUTTONS_TOP, RANDOM_BUTTON_WIDTH, TOP_BUTTONS_HEIGHT)) {
 				GameController.HumanPlayer.RandomizeDeployment();
+				// order is int x 547, int y 72, int w 51, int h 46
+			} else if (UtilityFunctions.IsMouseInRectangle(TOP_RETURN_TO_MENU, TOP_BUTTONS_TOP, RETURN_TO_MENU_WIDTH, TOP_BUTTONS_HEIGHT)) {
+				GameController.SwitchState(GameController.GameState.ViewingMainMenu);
 			}
 		}
 	}
@@ -127,12 +133,12 @@ static class DeploymentController
 		//Draw the Left/Right and Up/Down buttons
 		if (_currentDirection == Direction.LeftRight) {
 			SwinGame.DrawBitmap(GameResources.GameImage("LeftRightButton"), LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP);
-			//SwinGame.DrawText("U/D", Color.Gray, GameFont("Menu"), UP_DOWN_BUTTON_LEFT, TOP_BUTTONS_TOP)
-			//SwinGame.DrawText("L/R", Color.White, GameFont("Menu"), LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP)
+			SwinGame.DrawText("U/D", Color.Gray, GameFont("Menu"), UP_DOWN_BUTTON_LEFT, TOP_BUTTONS_TOP)
+			SwinGame.DrawText("L/R", Color.White, GameFont("Menu"), LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP)
 		} else {
 			SwinGame.DrawBitmap(GameResources.GameImage("UpDownButton"), LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP);
-			//SwinGame.DrawText("U/D", Color.White, GameFont("Menu"), UP_DOWN_BUTTON_LEFT, TOP_BUTTONS_TOP)
-			//SwinGame.DrawText("L/R", Color.Gray, GameFont("Menu"), LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP)
+			SwinGame.DrawText("U/D", Color.White, GameFont("Menu"), UP_DOWN_BUTTON_LEFT, TOP_BUTTONS_TOP)
+			SwinGame.DrawText("L/R", Color.Gray, GameFont("Menu"), LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP)
 		}
 
 		//DrawShips
@@ -155,11 +161,12 @@ static class DeploymentController
 
 		if (GameController.HumanPlayer.ReadyToDeploy) {
 			SwinGame.DrawBitmap(GameResources.GameImage("PlayButton"), PLAY_BUTTON_LEFT, TOP_BUTTONS_TOP);
-			//SwinGame.FillRectangle(Color.LightBlue, PLAY_BUTTON_LEFT, PLAY_BUTTON_TOP, PLAY_BUTTON_WIDTH, PLAY_BUTTON_HEIGHT)
-			//SwinGame.DrawText("PLAY", Color.Black, GameFont("Courier"), PLAY_BUTTON_LEFT + TEXT_OFFSET, PLAY_BUTTON_TOP)
+			// SwinGame.FillRectangle(Color.LightBlue, PLAY_BUTTON_LEFT, PLAY_BUTTON_TOP, PLAY_BUTTON_WIDTH, PLAY_BUTTON_HEIGHT)
+			// SwinGame.DrawText("PLAY", Color.Black, GameFont("Courier"), PLAY_BUTTON_LEFT + TEXT_OFFSET, PLAY_BUTTON_TOP)
 		}
 
 		SwinGame.DrawBitmap(GameResources.GameImage("RandomButton"), RANDOM_BUTTON_LEFT, TOP_BUTTONS_TOP);
+		SwinGame.DrawText("Return to Menu", Color.Gray, GameFont("Menu"), LEFT_RIGHT_BUTTON_LEFT, TOP_RETURN_TO_MENU)
 
 		UtilityFunctions.DrawMessage();
 	}
