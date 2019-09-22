@@ -10,19 +10,19 @@ using System.Diagnostics;
 /// </summary>
 public class AttackResult
 {
-	private ResultOfAttack _Value;
-	private Ship _Ship;
-	private string _Text;
-	private int _Row;
+	private ResultOfAttack _value;
+	private Ship _ship;
+	private string _text;
+	private int _row;
 
-	private int _Column;
+	private int _column;
 	/// <summary>
 	/// The result of the attack
 	/// </summary>
 	/// <value>The result of the attack</value>
 	/// <returns>The result of the attack</returns>
 	public ResultOfAttack Value {
-		get { return _Value; }
+		get { return _value; }
 	}
 
 	/// <summary>
@@ -31,7 +31,7 @@ public class AttackResult
 	/// <value>The ship, if any, involved in this result</value>
 	/// <returns>The ship, if any, involved in this result</returns>
 	public Ship Ship {
-		get { return _Ship; }
+		get { return _ship; }
 	}
 
 	/// <summary>
@@ -41,44 +41,44 @@ public class AttackResult
 	/// <returns>A textual description of the result.</returns>
 	/// <remarks>A textual description of the result.</remarks>
 	public string Text {
-		get { return _Text; }
+		get { return _text; }
 	}
 
 	/// <summary>
 	/// The row where the attack occurred
 	/// </summary>
 	public int Row {
-		get { return _Row; }
+		get { return _row; }
 	}
 
 	/// <summary>
 	/// The column where the attack occurred
 	/// </summary>
 	public int Column {
-		get { return _Column; }
+		get { return _column; }
 	}
 
 	/// <summary>
-	/// Set the _Value to the PossibleAttack value
+	/// Set the _value to the PossibleAttack value
 	/// </summary>
 	/// <param name="value">either hit, miss, destroyed, shotalready</param>
 	public AttackResult(ResultOfAttack value, string text, int row, int column)
 	{
-		_Value = value;
-		_Text = text;
-		_Ship = null;
-		_Row = row;
-		_Column = column;
+		_value = value;
+		_text = text;
+		_ship = null;
+		_row = row;
+		_column = column;
 	}
 
 	/// <summary>
-	/// Set the _Value to the PossibleAttack value, and the _Ship to the ship
+	/// Set the _value to the PossibleAttack value, and the _ship to the ship
 	/// </summary>
 	/// <param name="value">either hit, miss, destroyed, shotalready</param>
 	/// <param name="ship">the ship information</param>
 	public AttackResult(ResultOfAttack value, Ship ship, string text, int row, int column) : this(value, text, row, column)
 	{
-		_Ship = ship;
+		_ship = ship;
 	}
 
 	/// <summary>
@@ -87,11 +87,11 @@ public class AttackResult
 	/// <returns>The textual information about the attack</returns>
 	public override string ToString()
 	{
-		if (_Ship == null) {
+		if (_ship == null) {
 			return Text;
 		}
 
-		return Text + " " + _Ship.Name;
+		return Text + " " + _ship.Name;
 	}
 }
 

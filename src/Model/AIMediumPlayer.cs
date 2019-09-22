@@ -23,7 +23,7 @@ public class AIMediumPlayer : AIPlayer
 		TargetingShip
 	}
 
-	private AIStates _CurrentState = AIStates.Searching;
+	private AIStates _currentState = AIStates.Searching;
 
 	private Stack<Location> _Targets = new Stack<Location>();
 	public AIMediumPlayer(BattleShipsGame controller) : base(controller)
@@ -42,7 +42,7 @@ public class AIMediumPlayer : AIPlayer
 		do {
 			//check which state the AI is in and uppon that choose which coordinate generation
 			//method will be used.
-			switch (_CurrentState) {
+			switch (_currentState) {
 				case AIStates.Searching:
 					SearchCoords(ref row, ref column);
 					break;
@@ -67,7 +67,7 @@ public class AIMediumPlayer : AIPlayer
 		Location l = _Targets.Pop();
 
 		if ((_Targets.Count == 0))
-			_CurrentState = AIStates.Searching;
+			_currentState = AIStates.Searching;
 		row = l.Row;
 		column = l.Column;
 	}
@@ -95,7 +95,7 @@ public class AIMediumPlayer : AIPlayer
 	protected override void ProcessShot(int row, int col, AttackResult result)
 	{
 		if (result.Value == ResultOfAttack.Hit) {
-			_CurrentState = AIStates.TargetingShip;
+			_currentState = AIStates.TargetingShip;
 			AddTarget(row - 1, col);
 			AddTarget(row, col - 1);
 			AddTarget(row + 1, col);
