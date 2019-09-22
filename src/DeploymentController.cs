@@ -167,9 +167,6 @@ static class DeploymentController
 			// SwinGame.DrawText("PLAY", Color.Black, GameFont("Courier"), PlayButtonLeft + TEXT_OFFSET, PLAY_BUTTON_TOP)
 		}
 
-		SwinGame.DrawBitmap(GameResources.GameImage("RandomButton"), RandomButtonLeft, TopButtonsTop);
-        SwinGame.DrawText("Return to Menu", Color.Gray, GameFont("Menu"), LeftRightButtonLeft, TopReturnToMenu);
-
 		UtilityFunctions.DrawMessage();
 	}
 
