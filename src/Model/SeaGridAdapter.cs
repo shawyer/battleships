@@ -13,15 +13,15 @@ public class SeaGridAdapter : ISeaGrid
 {
 
 
-	private SeaGrid _MyGrid;
+	private SeaGrid _myGrid;
 	/// <summary>
 	/// Create the SeaGridAdapter, with the grid, and it will allow it to be changed
 	/// </summary>
 	/// <param name="grid">the grid that needs to be adapted</param>
 	public SeaGridAdapter(SeaGrid grid)
 	{
-		_MyGrid = grid;
-		_MyGrid.Changed += new EventHandler(MyGrid_Changed);
+		_myGrid = grid;
+		_myGrid.Changed += new EventHandler(MyGrid_Changed);
 	}
 
 	/// <summary>
@@ -46,7 +46,7 @@ public class SeaGridAdapter : ISeaGrid
 	/// <returns>a tile, either what it actually is, or if it was a ship then return a sea tile</returns>
 	public TileView this[int x, int y] {
 		get {
-			TileView result = _MyGrid[x, y];
+			TileView result = _myGrid[x, y];
 
 			if (result == TileView.Ship) {
 				return TileView.Sea;
@@ -65,25 +65,25 @@ public class SeaGridAdapter : ISeaGrid
 	/// Get the width of a tile
 	/// </summary>
 	public int Width {
-		get { return _MyGrid.Width; }
+		get { return _myGrid.Width; }
 	}
 
 	/// <summary>
 	/// Get the height of the tile
 	/// </summary>
 	public int Height {
-		get { return _MyGrid.Height; }
+		get { return _myGrid.Height; }
 	}
 
 	/// <summary>
-	/// HitTile calls oppon _MyGrid to hit a tile at the row, col
+	/// HitTile calls oppon _myGrid to hit a tile at the row, col
 	/// </summary>
 	/// <param name="row">the row its hitting at</param>
 	/// <param name="col">the column its hitting at</param>
 	/// <returns>The result from hitting that tile</returns>
 	public AttackResult HitTile(int row, int col)
 	{
-		return _MyGrid.HitTile(row, col);
+		return _myGrid.HitTile(row, col);
 	}
 	#endregion
 
