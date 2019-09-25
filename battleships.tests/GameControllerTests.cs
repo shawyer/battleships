@@ -12,7 +12,6 @@ public class GameControllerTests
     }
 
     [TestMethod]
-    [Fact]
     public void isGamestartInDeploying()
     {
         gameController.StartGame();
@@ -22,7 +21,6 @@ public class GameControllerTests
     }
 
     [TestMethod]
-    [Fact]
     public void isEndDeploymentInDiscovering()
     {
         gameController.EndDeployment();
@@ -32,7 +30,6 @@ public class GameControllerTests
     }
 
     [TestMethod]
-    [Fact]
     public void isAddNewStateAddingState()
     {
         gameController.AddNewState(GameState.ViewingMainMenu);
@@ -42,7 +39,6 @@ public class GameControllerTests
     }
 
     [TestMethod]
-    [Fact]
     public void isSwitchStateSwitchingState()
     {
         gameController.SwitchState(GameState.AlteringSettings);
@@ -52,7 +48,6 @@ public class GameControllerTests
     }
 
     [TestMethod]
-    [Fact]
     public void isEndCurrentStateEndingState()
     {
         gameController.AddNewState(GameState.ViewingMainMenu);
@@ -64,7 +59,6 @@ public class GameControllerTests
     }
 
     [TestMethod]
-    [Fact]
     public void canWeSetDifficulty()
     {
         gameController.SetDifficulty(AIOption.Hard);
