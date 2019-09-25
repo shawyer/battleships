@@ -1,4 +1,3 @@
-using Xunit;
 using Ship;
 using ShipName;
 
