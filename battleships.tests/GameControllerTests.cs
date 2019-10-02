@@ -66,4 +66,22 @@ public class GameControllerTests
         Assert.AreEqual("Hard", result, false, "AIOption is not set to Hard");
     }
 
+    [TestMethod]
+    public void canWeSetDifficultyMedium()
+    {
+        gameController.SetDifficulty(AIOption.Medium);
+        var result = gameController._aiSetting;
+
+        Assert.AreEqual("Medium", result, false, "AIOption is not set to Medium");
+    }
+
+    [TestMethod]
+    public void canWeSetDifficultyEasy()
+    {
+        gameController.SetDifficulty(AIOption.Easy);
+        var result = gameController._aiSetting;
+
+        Assert.AreEqual("Easy", result, false, "AIOption is not set to Easy");
+    }
+
 }

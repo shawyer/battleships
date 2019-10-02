@@ -8,7 +8,6 @@ public class ShipTests
 
 
     [TestMethod]
-    [Fact]
     public void isShipNameCorrect()
     {
         shipName = new ShipName shipName;
@@ -20,7 +19,6 @@ public class ShipTests
     }
 
     [TestMethod]
-    [Fact]
     public void addHit()
     {
         shipName = new ShipName shipName;
@@ -33,7 +31,6 @@ public class ShipTests
     }
 
     [TestMethod]
-    [Fact]
     public void checkSubmarineSize()
     {
         shipName = new ShipName shipName;
@@ -45,7 +42,6 @@ public class ShipTests
     }
 
     [TestMethod]
-    [Fact]
     public void checkDestroyerSize()
     {
         shipName = new ShipName shipName;
