@@ -1,0 +1,230 @@
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\animations\startup.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\bundles\splash.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\arial.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\cour.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\fdFile.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\fdFolder.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\Swinburne.jpg
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\images\SwinGameAni.png
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\panels\FileDialog.txt
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\sounds\error.wav
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\SwinGame.icns
+H:\Labs\2018\BB\GameTemplate\bin\Debug\Resources\SwinGame.ico
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.exe.config
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.exe
+H:\Labs\2018\BB\GameTemplate\bin\Debug\MyGame.pdb
+H:\Labs\2018\BB\GameTemplate\bin\Debug\SwinGame.dll
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
+H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Indra\Desktop\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\Indra\Desktop\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Indra\Desktop\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Indra\Desktop\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\animations\splash.txt
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\animations\startup.txt
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\fonts\ffaccess.ttf
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\highscores.txt
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\deploy.jpg
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\deploy_button_hl.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\deploy_dir_button_vert.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\deploy_play_button.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\deploy_randomize_button.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\discover.jpg
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\explosion.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\fdFile.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\loader_empty.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\loader_full.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\main_page.jpg
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_1.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_2.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_3.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_4.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\ship_deploy_vert_5.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\splash.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\SplashBack.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\SwinGameAni.jpg
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\error.wav
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\hit.wav
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\horrordrone.mp3
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\lose.wav
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\sink.wav
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.ogg
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\watershot.wav
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\sounds\winner.wav
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\SwinGame.icns
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\Resources\SwinGame.ico
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\MyGame.exe.config
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\MyGame.exe
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\MyGame.pdb
+C:\Users\Indra\Desktop\GameTemplate\bin\Debug\SwinGame.dll
+C:\Users\Indra\Desktop\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\animations\splash.txt
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\animations\startup.txt
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\ffaccess.ttf
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\highscores.txt
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy.jpg
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_button_hl.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_dir_button_vert.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_play_button.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_randomize_button.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\discover.jpg
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\explosion.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\fdFile.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\loader_empty.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\loader_full.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\main_page.jpg
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_1.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_2.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_3.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_4.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_5.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\splash.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\SplashBack.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\SwinGameAni.jpg
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\error.wav
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\hit.wav
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\horrordrone.mp3
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\lose.wav
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\sink.wav
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\SwinGameStart.ogg
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\watershot.wav
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\winner.wav
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\SwinGame.icns
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\SwinGame.ico
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.engine.dll
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.engine.api.dll
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.exe.config
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.exe
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.pdb
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.framework.dll
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\SwinGame.dll
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.framework.pdb
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.framework.xml
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.exe.CodeAnalysisLog.xml
+C:\Users\Indra\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.exe.lastcodeanalysissucceeded
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\animations\splash.txt
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\animations\startup.txt
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\bundles\splash.txt
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\ffaccess.ttf
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\highscores.txt
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy.jpg
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_button_hl.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_dir_button_vert.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_play_button.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\deploy_randomize_button.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\discover.jpg
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\explosion.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\fdFile.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\fdFolder.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\loader_empty.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\loader_full.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\main_page.jpg
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_1.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_2.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_3.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_4.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\ship_deploy_vert_5.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\splash.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\SplashBack.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\SwinGameAni.jpg
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\error.wav
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\hit.wav
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\horrordrone.mp3
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\lose.wav
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\sink.wav
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\SwinGameStart.ogg
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\watershot.wav
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\sounds\winner.wav
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\SwinGame.icns
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\Resources\SwinGame.ico
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.engine.dll
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.engine.api.dll
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.exe.config
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.exe
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\MyGame.pdb
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.framework.dll
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\SwinGame.dll
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.framework.pdb
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\bin\Debug\nunit.framework.xml
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\101820843\Desktop\battleships + vs + build.sh + run.sh + NET Framework 4.52- Copy - Copy\obj\x86\Debug-Windows\MyGame.pdb
